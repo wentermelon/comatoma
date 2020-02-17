@@ -14,17 +14,22 @@ Even though the game is only a few minutes long, it took a lot of work to plan t
 
 ## Credits
 **Character Art and Design**
+
 Leonni Antono
 
 **Background Art and Design**
+
 Joelle Lee
 
 **Dialogue and Script**
+
 Kylie Roxanne Go Lim
 Brian Lim
 
 **Music**
+
 Fiona Soetrisno
 
 **RenPy Code**
+
 Wency Go
